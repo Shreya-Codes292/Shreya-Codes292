@@ -21,21 +21,9 @@
   <img src="https://streak-stats.demolab.com/?user=Shreya-Codes292&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya-Codes292&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+
 
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shreya-Codes292/Shreya-Codes292/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreya-Codes292&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreya-Codes292&style=flat-square&color=blue" alt="profile views" />
 </p>

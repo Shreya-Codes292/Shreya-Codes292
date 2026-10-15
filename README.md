@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=SDE+%7C+Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Tailwind+CSS;Building+real+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Tailwind+CSS;Building+real+projects" alt="Typing SVG" />
 </p>
 
 ## 🛠 Tech Stack

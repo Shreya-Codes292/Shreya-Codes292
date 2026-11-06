@@ -11,7 +11,3 @@
 </p>
 
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shreya-Codes292/Shreya-Codes292/output/github-contribution-grid-snake-dark.svg" />
-</p>
